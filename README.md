@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Louay</h1>
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0stain&label=Profile%20views&color=0e75b6&style=flat" alt="0stain" /> </p>
+
 
 - 🔭 I’m currently working on [BookMyBox](https://github.com/0Stain/BookMyBox)
 
