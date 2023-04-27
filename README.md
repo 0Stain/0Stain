@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Louay</h1>
-<h3 align="center">A passionate fullstack developer from Tunisia</h3>
+<h3 align="center">A passionate Software Engineer from Tunisia!</h3>
 
 
 
-- 🔭 I’m currently working on [Vélo.tn](https://github.com/hassenoueslati/Velo.tn)
-
-- 🌱 I’m currently learning **Laravel and Vue.js**
+- 🔭 I’m currently working as a Frontend Software Engineer Intern
 
 - 👨‍💻 All of my projects are available at [https://github.com/0Stain](https://github.com/0Stain)
 
